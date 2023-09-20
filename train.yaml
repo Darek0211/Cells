@@ -1,0 +1,7 @@
+path: .
+train: /content/Cells/images/train
+val: /content/Cells/images/validation
+test: /content/Cells/images/test
+
+names:
+  0: CELULAS
